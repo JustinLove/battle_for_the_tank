@@ -1,0 +1,19 @@
+{
+  "author": "wondible",
+  "build": "86765",
+  "category": ["units"],
+  "context": "server",
+  "date": "2015/09/01",
+  "description": "Ant vs. Bolo - pick your side.",
+  "display_name": "Battle For The Tank",
+  "forum": null,
+  "identifier": "com.wondible.pa.battle_for_the_tank",
+  "scenes": {
+    "settings": [
+      "coui://ui/mods/battle_for_the_tank/settings.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+
