@@ -2,10 +2,9 @@
 
 Ant vs. Bolo - pick your side.
 
-## Features
+Lobby host will need to refresh to see the tank selector. It can also be set by visiting settings in a modded game.
 
-- Rainbows
-- Unicorns
+Hotbuild users will need to change their tank key while a modded game to build the right unit, and change it back aferwards.
 
 ## Development
 
@@ -16,6 +15,5 @@ PA will upload **all files** in the mod directory, including `node_modules` and 
 ### Available Tasks
 
 - copy:mod - copy the mod files into server_mods
-- proc:adv_comfab - Proc: read one or more files from PA and munge into one in the mod.  Example is a reduced cost adv. fabrication bot
-- proc:antinuke - restore the builtin first antinuke.
+- proc - Proc: read one or more files from PA and munge into one in the mod.
 - default: proc, copy:mod
