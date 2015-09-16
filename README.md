@@ -4,7 +4,7 @@ Ant vs. Bolo - pick your side.
 
 Lobby host will need to refresh to see the tank selector. It can also be set by visiting settings in a modded game.
 
-Hotbuild users will need to change their tank key while a modded game to build the right unit, and change it back aferwards.
+Hotbuild users will need to change their tank key while a modded game to build the right unit, and change it back afterwards.
 
 ## Development
 

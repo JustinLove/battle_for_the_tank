@@ -6,7 +6,7 @@
   "date": "2015/09/16",
   "description": "Ant vs. Bolo - pick your side.  (Host needs to refresh lobby for selection.)",
   "display_name": "Battle For The Tank",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-battle-for-the-tank.70465/",
   "icon": "http://wondible.com/pa/icons/battle_for_the_tank.png",
   "identifier": "com.wondible.pa.battle_for_the_tank",
   "scenes": {
@@ -19,6 +19,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 
